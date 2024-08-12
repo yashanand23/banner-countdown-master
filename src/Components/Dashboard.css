@@ -1,0 +1,41 @@
+.dashboard {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard h2 {
+    margin-bottom: 20px;
+  }
+  
+  .control {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    margin-right: 10px;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 1em;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
